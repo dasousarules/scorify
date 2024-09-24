@@ -1,1 +1,3 @@
 # scorify
+
+Hi there!
